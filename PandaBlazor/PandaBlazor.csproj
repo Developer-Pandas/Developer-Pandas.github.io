@@ -5,31 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="bin\Debug\netcoreapp3.0\appsettings.Development.json" />
-    <Content Include="bin\Debug\netcoreapp3.0\appsettings.json" />
-    <Content Include="bin\Debug\netcoreapp3.0\PandaBlazor.deps.json" />
-    <Content Include="bin\Debug\netcoreapp3.0\PandaBlazor.runtimeconfig.dev.json" />
-    <Content Include="bin\Debug\netcoreapp3.0\PandaBlazor.runtimeconfig.json" />
-    <Content Include="bin\Debug\netcoreapp3.0\Properties\launchSettings.json" />
-    <Content Include="bin\netcoreapp3.0\netcoreapp3.0\appsettings.Development.json" />
-    <Content Include="bin\netcoreapp3.0\netcoreapp3.0\appsettings.json" />
-    <Content Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.deps.json" />
-    <Content Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.runtimeconfig.dev.json" />
-    <Content Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.runtimeconfig.json" />
-    <Content Include="bin\netcoreapp3.0\netcoreapp3.0\Properties\launchSettings.json" />
+    <Compile Remove="bin\**" />
+    <Content Remove="bin\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <None Remove="bin\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.dll" />
-    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.exe" />
-    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.pdb" />
-    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.Views.dll" />
-    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.Views.pdb" />
-    <None Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.dll" />
-    <None Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.exe" />
-    <None Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.pdb" />
-    <None Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.Views.dll" />
-    <None Include="bin\netcoreapp3.0\netcoreapp3.0\PandaBlazor.Views.pdb" />
+    <Folder Include="publish\" />
   </ItemGroup>
 
 </Project>
