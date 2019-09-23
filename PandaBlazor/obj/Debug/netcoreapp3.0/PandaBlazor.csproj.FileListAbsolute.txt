@@ -1,0 +1,13 @@
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\PandaBlazor.csprojAssemblyReference.cache
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\staticwebassets\PandaBlazor.StaticWebAssets.Manifest.cache
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\staticwebassets\PandaBlazor.StaticWebAssets.xml
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\PandaBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\PandaBlazor.RazorComponent.input.cache
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\App.razor.g.cs
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Error.razor.g.cs
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\repos\PandaBlazor\PandaBlazor\obj\Debug\netcoreapp3.0\RazorDeclaration\_Imports.razor.g.cs
