@@ -1,7 +1,24 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.0\appsettings.Development.json" />
+    <Content Include="bin\Debug\netcoreapp3.0\appsettings.json" />
+    <Content Include="bin\Debug\netcoreapp3.0\PandaBlazor.deps.json" />
+    <Content Include="bin\Debug\netcoreapp3.0\PandaBlazor.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp3.0\PandaBlazor.runtimeconfig.json" />
+    <Content Include="bin\Debug\netcoreapp3.0\Properties\launchSettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.dll" />
+    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.exe" />
+    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.pdb" />
+    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.Views.dll" />
+    <None Include="bin\Debug\netcoreapp3.0\PandaBlazor.Views.pdb" />
+  </ItemGroup>
 
 </Project>
